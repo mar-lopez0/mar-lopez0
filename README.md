@@ -23,12 +23,6 @@
       #CSS
     </span>
     <span style="display: inline-block; background: #edf2f7; border-radius: 6px; padding: 5px 10px; margin: 5px; font-size: 0.9em;">
-      #JavaScript
-    </span>
-    <span style="display: inline-block; background: #edf2f7; border-radius: 6px; padding: 5px 10px; margin: 5px; font-size: 0.9em;">
-      #Python
-    </span>
-    <span style="display: inline-block; background: #edf2f7; border-radius: 6px; padding: 5px 10px; margin: 5px; font-size: 0.9em;">
       #Java
     </span>
     <span style="display: inline-block; background: #edf2f7; border-radius: 6px; padding: 5px 10px; margin: 5px; font-size: 0.9em;">

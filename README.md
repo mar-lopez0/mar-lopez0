@@ -1,7 +1,7 @@
 ### Hello World. I'm Margeory Lòpez 👋.
 ---
 <p>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F8Fmm9CaLYpwAAAAd%2Fsnoopy-sundaes.gif&f=1&nofb=1&ipt=7ea425f1efb02ae7da878b6fa77d0f50a7a76569c08874ae4059cfaee23e2564"15%"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMh2SsRKrvE1DbXMu1Ybf8Ubx7whQwt-NpEX84x6JZgZeGwQgrLRvlqLdxS9c0-M7L-H79kk6KTeOlizwMvSIm1uDoZy8PmKbJE3dwFtQMjZ9pL1F6q8ZaPXKJvged6fgiBnLF8u0WRQjJ/s1600/Gifs+animados+Snoopy+11.gif"15%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
